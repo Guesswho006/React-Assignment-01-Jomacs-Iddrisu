@@ -3,7 +3,7 @@ function TestO1() {
     <>
       <h1>Hello World!</h1>
       <p>Welcome to React!</p>
-      </>  
+      </> 
   );
 }
 
