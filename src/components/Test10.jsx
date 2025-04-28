@@ -8,7 +8,9 @@ function Test10() {
   const isAdmin = true;
 
   return (
-    // Your code here
+    <div>
+    {isAdmin && <h2>Admin Panel</h2>}
+    </div>
   );
 }
 
