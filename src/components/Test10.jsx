@@ -9,7 +9,7 @@ function Test10() {
 
   return (
     <div>
-    {isAdmin && <h2>Admin Panel</h2>}
+        {isAdmin && <h2>Admin Panel</h2>}
     </div>
   );
 }

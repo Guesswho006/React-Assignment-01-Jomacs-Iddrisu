@@ -8,9 +8,7 @@ function Test09() {
   const name = "Jomacs";
 
   return (
-    <button onClick={()=>{
-      alert(`Clicked ${name}`);
-    }}>Click Me</button>
+    <button>Click {name}</button>
   );
 }
 
